@@ -1,0 +1,1083 @@
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run ParseTemplate Behavior [ RunTime:0.031250s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031250s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /index_developer.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | SQL: SELECT `id` FROM `pay_user` WHERE mypayurlname='js/jquery-1.9.1.js' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:16+08:00 ] /js/jquery-1.9.1.js?v=1487941036 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:18+08:00 ] /index_developer7.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /index_developer7.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | SQL: SELECT `id` FROM `pay_user` WHERE mypayurlname='js/jquery-1.9.1.js' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T20:57:19+08:00 ] /js/jquery-1.9.1.js?v=1487941038 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T21:16:52+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:16:52+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:05+08:00 ] /index_login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | ERR: (ThinkException) 非法操作icon1.png
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | INFO: Run CheckRoute Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | INFO: Tag[ route_check ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 72 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 73 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | ERR: (ThinkException) 非法操作icon2.png
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | INFO: Tag[ route_check ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 72 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 73 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | ERR: (ThinkException) 非法操作line
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 72 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 73 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T21:17:06+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:12:12+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.031250s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031250s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:12+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | SQL: SELECT `id` FROM `pay_user` WHERE mypayurlname='static/fonts/glyphicons-halflings-regular.woff' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:12:13+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | SQL: SELECT `id` FROM `pay_user` WHERE mypayurlname='robots.txt' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:43+08:00 ] /robots.txt | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:19:44+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:19:44+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.031250s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031250s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:49+08:00 ] /index_login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | SQL: SELECT `id` FROM `pay_user` WHERE mypayurlname='static/fonts/glyphicons-halflings-regular.woff' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:37:57+08:00 ] /static/fonts/glyphicons-halflings-regular.woff | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:59:31+08:00 ] / | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 0 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 1 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | SQL: SELECT * FROM `pay_newlist` WHERE type = 3 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run ParseTemplate Behavior [ RunTime:0.031250s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031250s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:31+08:00 ] / | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:36+08:00 ] /index_login.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | ERR: (ThinkException) 非法操作line
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 72 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 73 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:39+08:00 ] /static/images/login_line_bg.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | ERR: (ThinkException) 非法操作icon1.png
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | INFO: Run CheckRoute Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | INFO: Tag[ route_check ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 72 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 73 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon1.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | ERR: (ThinkException) 非法操作icon2.png
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 72 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 73 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: file ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: line ThinkException.class.php 第 78 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: class ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:40+08:00 ] /static/images/input_icon2.png | NOTIC: [8] Undefined index: type ThinkException.class.php 第 79 行.
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | NOTIC: [2048] Declaration of IndexAction::ajaxreturn() should be compatible with that of Action::ajaxReturn() IndexAction.class.php 第 1060 行.
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | NOTIC: [8] Undefined offset: 1 Action.class.php 第 233 行.
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | NOTIC: [8] Undefined offset: 1 Action.class.php 第 233 行.
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | NOTIC: [8] Undefined offset: 1 Action.class.php 第 233 行.
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | SQL: SELECT `status` FROM `pay_user` WHERE UserName = 'ceshi@qq.com' and LoginPassWord = 'e10adc3949ba59abbe56e057f20f883e' and (UserType = 1 or UserType = 0 or UserType = 3) LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | SQL: SELECT `mbk` FROM `pay_user` WHERE UserName = 'ceshi@qq.com' and LoginPassWord = 'e10adc3949ba59abbe56e057f20f883e' and (UserType = 1 or UserType = 0 or UserType = 3) LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /Index_Login.html | SQL: SELECT `id` FROM `pay_user` WHERE UserName = 'ceshi@qq.com' and LoginPassWord = 'e10adc3949ba59abbe56e057f20f883e' and (UserType = 1 or UserType = 0 or UserType = 3) LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_money` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT `Money` FROM `pay_money` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_userbasicinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT `Compellation` FROM `pay_userbasicinformation` WHERE UserId=297 LIMIT 1   [ RunTime:0.015625s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_userapiinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT `Zt` FROM `pay_userapiinformation` WHERE UserId=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_dldate` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT `dldate` FROM `pay_dldate` WHERE UserID=297 ORDER BY dldate desc LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT `ip` FROM `pay_dldate` WHERE UserID=297 ORDER BY dldate desc LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | NOTIC: [8] Undefined variable: HTTP_SERVER_VARS IndexAction.class.php 第 53 行.
+[ 2017-02-24T22:59:51+08:00 ] /User | NOTIC: [8] Undefined variable: HTTP_SERVER_VARS IndexAction.class.php 第 57 行.
+[ 2017-02-24T22:59:51+08:00 ] /User | NOTIC: [8] Undefined variable: HTTP_SERVER_VARS IndexAction.class.php 第 61 行.
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: INSERT INTO `pay_dldate` (`dldate`,`UserID`,`ip`) VALUES ('2017-02-24 22:59:51','297','58.45.94.61') [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_tongzhi` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT * FROM `pay_tongzhi` WHERE UserID=297 ORDER BY id desc  [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_bank` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT COUNT(*) AS tp_count FROM `pay_bank` WHERE UserID=297 and banktype = 0  LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT `BankName` FROM `pay_bank` WHERE UserID=297 and moren = 1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_order` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT * FROM `pay_order` WHERE (UserID=297 or (Username = '297' and typepay = 5) ) and Zt = 1 ORDER BY TradeDate desc LIMIT 0,10   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT COUNT(*) AS tp_count FROM `pay_order` WHERE UserID = '297' and DATEDIFF('2017-02-24',TradeDate) = 0 and zt=1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT SUM(trademoney) AS tp_sum FROM `pay_order` WHERE UserID = '297' and DATEDIFF('2017-02-24',TradeDate) = 0 and zt=1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,3   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT SUM(tk_money) AS tp_sum FROM `pay_tklist` WHERE wt = 0 and UserID=297 and ZT = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT SUM(money) AS tp_sum FROM `pay_tklist` WHERE wt = 0 and UserID=297 and ZT = 2 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT SUM(tk_money) AS tp_sum FROM `pay_wttklist` WHERE UserID=297 and ZT = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | SQL: SELECT SUM(tk_money) AS tp_sum FROM `pay_wttklist` WHERE UserID=297 and ZT = 2 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /User | NOTIC: [8] Undefined variable: daymoney 3a1b4ff70040b521ddf5e30e65ee8a9f.php 第 122 行.
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run ParseTemplate Behavior [ RunTime:0.031250s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031250s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T22:59:51+08:00 ] /User | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SHOW COLUMNS FROM `pay_order` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | NOTIC: [8] Undefined variable: pagepage IndexAction.class.php 第 2547 行.
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT * FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 ORDER BY TradeDate desc LIMIT 0,20   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT SUM(trademoney) AS tp_sum FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 and DATEDIFF('2017-02-24',TradeDate) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT SUM(OrderMoney) AS tp_sum FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 and DATEDIFF('2017-02-24',TradeDate) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 and DATEDIFF('2017-02-24',TradeDate) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT SUM(trademoney) AS tp_sum FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 and DATEDIFF('2017-02-23',TradeDate) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT SUM(OrderMoney) AS tp_sum FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 and DATEDIFF('2017-02-23',TradeDate) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_order` WHERE UserID = 297 and (typepay = 0 or typepay = 1) and Zt = 1 and DATEDIFF('2017-02-23',TradeDate) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SHOW COLUMNS FROM `pay_ordertz` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1487142792' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '96550220170215144141' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '20854420170215143843' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '93259820170215140849' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1486984617' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1486936621' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1486674366' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1486623621' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '16701620170201152740' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1484998198' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1484758829' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1484722949' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1484702463' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '15408020170109115235' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '1483853151' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '41050120170108104102' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '43033120170108004931' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '69532120170106150849' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '39171420170104205521' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | SQL: SELECT `success` FROM `pay_ordertz` WHERE Sjt_TransID = '27720920170104204506' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run ParseTemplate Behavior [ RunTime:0.031250s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031250s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:07+08:00 ] /User_Index_wyjyjl.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | NOTIC: [8] Undefined variable: ksjy_date f11d72e6b1c8128c0c5f9fb85be85b9a.php 第 136 行.
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | NOTIC: [8] Undefined variable: jsjy_date f11d72e6b1c8128c0c5f9fb85be85b9a.php 第 143 行.
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | NOTIC: [8] Undefined variable: daymoney f11d72e6b1c8128c0c5f9fb85be85b9a.php 第 161 行.
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | NOTIC: [8] Undefined variable: daynum f11d72e6b1c8128c0c5f9fb85be85b9a.php 第 171 行.
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:13+08:00 ] /User_Index_jltj.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SHOW COLUMNS FROM `pay_bank` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | NOTIC: [8] Undefined offset: 1 Action.class.php 第 233 行.
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SELECT * FROM `pay_bank` WHERE UserID=297 and banktype = 0  [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_bank` WHERE UserID=297 and banktype = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SHOW COLUMNS FROM `pay_userbasicinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SELECT `Compellation` FROM `pay_userbasicinformation` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SHOW COLUMNS FROM `pay_tkconfig` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | SQL: SELECT `wtyh` FROM `pay_tkconfig` LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | NOTIC: [8] Undefined variable: page 0129f7859b550f04470a5411fdc58ca3.php 第 180 行.
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run ContentReplace Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:17+08:00 ] /User_Index_tkyh_banktype_0.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run CheckRoute Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SHOW COLUMNS FROM `pay_bank` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `BankName` FROM `pay_bank` WHERE UserID=297 and moren = 1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `BankAccountNumber` FROM `pay_bank` WHERE UserID=297 and moren = 1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `id` FROM `pay_bank` WHERE UserID=297 and banktype=0 and moren = 1 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT * FROM `pay_bank` WHERE UserID=297 and banktype=0  [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SHOW COLUMNS FROM `pay_money` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `Money` FROM `pay_money` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SHOW COLUMNS FROM `pay_usersafetyinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `t0` FROM `pay_usersafetyinformation` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SHOW COLUMNS FROM `pay_tkconfig` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT * FROM `pay_tkconfig` WHERE UserID=297  [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `mttkcs` FROM `pay_tkconfig` LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `minmoney` FROM `pay_tkconfig` LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `maxmoney` FROM `pay_tkconfig` LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `mtsxmoney` FROM `pay_tkconfig` LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `sz` FROM `pay_tkconfig` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE DATEDIFF(now(),sq_date) = 0 and UserID = 297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT SUM(tk_money) AS tp_sum FROM `pay_tklist` WHERE DATEDIFF(now(),sq_date) = 0 and UserID = 297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `tksz` FROM `pay_tkconfig` WHERE UserID=0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | SQL: SELECT `sz` FROM `pay_tkconfig` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | NOTIC: [8] Undefined variable: tkiflx IndexAction.class.php 第 1662 行.
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:21+08:00 ] /User_Index_tktx.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE wt = 0 and UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | SQL: SELECT * FROM `pay_tklist` WHERE wt = 0 and UserID=297 ORDER BY sq_date desc LIMIT 0,20   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | SQL: SELECT SUM(tk_money) AS tp_sum FROM `pay_tklist` WHERE wt = 0 and UserID=297 and DATEDIFF('2017-02-24',sq_date) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE wt = 0 and UserID=297 and DATEDIFF('2017-02-24',sq_date) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | SQL: SELECT SUM(sxf_money) AS tp_sum FROM `pay_tklist` WHERE wt = 0 and UserID=297 and DATEDIFF('2017-02-24',sq_date) = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | NOTIC: [8] Undefined index: sq_date d6b93fc5a898a8173e5dbc67fb507f34.php 第 148 行.
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:44+08:00 ] /User_Index_tkjl.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run CheckRoute Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:48+08:00 ] /User_Index_zdjsb.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | SQL: SHOW COLUMNS FROM `pay_moneybd` [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_moneybd` WHERE 1=1 and UserID = '297' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | SQL: SELECT * FROM `pay_moneybd` WHERE 1=1 and UserID = '297' ORDER BY datetime desc LIMIT 0,10   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | SQL: SELECT SUM(money) AS tp_sum FROM `pay_moneybd` WHERE 1=1 and UserID = '297' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | NOTIC: [8] Undefined index: sq_date 0c45516429ee8ba8e6719554111d013f.php 第 140 行.
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | NOTIC: [8] Undefined index: sq_date_js 0c45516429ee8ba8e6719554111d013f.php 第 149 行.
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:00:50+08:00 ] /User_Index_zjbdjl.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | SQL: SHOW COLUMNS FROM `pay_userapiinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | SQL: SELECT * FROM `pay_userapiinformation` WHERE UserID=297  [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run ContentReplace Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:01+08:00 ] /User_Index_shjk.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | SQL: SHOW COLUMNS FROM `pay_userapiinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | SQL: SELECT `tongdao` FROM `pay_user` WHERE id=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | SQL: SHOW COLUMNS FROM `pay_sjapi` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | SQL: SELECT * FROM `pay_sjapi` WHERE xz=1  [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:05+08:00 ] /User_Index_shtd.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | SQL: SELECT `mypayurlname` FROM `pay_user` WHERE id=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | NOTIC: [8] Undefined variable: page abc711effdb1b9ecfa703a7e5118e0dd.php 第 233 行.
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run TokenBuild Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:24+08:00 ] /User_Index_skym.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_newlist` WHERE type = 2 and zt = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,15   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:30+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | SQL: SELECT `mypayurlname` FROM `pay_user` WHERE id=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | NOTIC: [8] Undefined variable: page abc711effdb1b9ecfa703a7e5118e0dd.php 第 233 行.
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:31+08:00 ] /User_Index_skym.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:39+08:00 ] /10297 | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:39+08:00 ] /10297 | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:39+08:00 ] /10297 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:39+08:00 ] /10297 | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:39+08:00 ] /10297 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:39+08:00 ] /10297 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | SQL: SHOW COLUMNS FROM `pay_user` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | SQL: SELECT `id` FROM `pay_user` WHERE mypayurlname='10297' LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | NOTIC: [8] Undefined index: Sjt_BType EmptyAction.class.php 第 29 行.
+[ 2017-02-24T23:01:40+08:00 ] /10297 | SQL: SELECT `RegDate` FROM `pay_user` WHERE id=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | SQL: SHOW COLUMNS FROM `pay_userbasicinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | SQL: SELECT `Compellation` FROM `pay_userbasicinformation` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:40+08:00 ] /10297 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_newlist` WHERE type = 2 and zt = 0 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | SQL: SELECT * FROM `pay_newlist` WHERE type = 2 and zt = 0 ORDER BY datetime desc LIMIT 0,15   [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run TokenBuild Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:01:51+08:00 ] /User_Index_sjtgg.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | NOTIC: [8] Undefined offset: 1 Action.class.php 第 233 行.
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | SQL: SHOW COLUMNS FROM `pay_newlist` [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | SQL: SELECT `title` FROM `pay_newlist` WHERE id=136 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | SQL: SELECT `content` FROM `pay_newlist` WHERE id=136 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | SQL: SELECT `zt` FROM `pay_newlist` WHERE id=136 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | SQL: SELECT `datetime` FROM `pay_newlist` WHERE id=136 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | NOTIC: [8] Undefined variable: type IndexAction.class.php 第 184 行.
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:01+08:00 ] /User_Index_sjtggshow_newsid_136.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | SQL: SHOW COLUMNS FROM `pay_dldate` [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | SQL: SELECT COUNT(*) AS tp_count FROM `pay_dldate` WHERE UserID=297 LIMIT 1   [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | SQL: SELECT * FROM `pay_dldate` WHERE UserID=297 ORDER BY dldate desc LIMIT 0,20   [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run ParseTemplate Behavior [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:25+08:00 ] /User_Index_dllist.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ route_check ] --START--
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ route_check ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ app_begin ] --START--
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ app_begin ] --END-- [ RunTime:0.015625s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | SQL: SHOW COLUMNS FROM `pay_usersafetyinformation` [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | SQL: SELECT * FROM `pay_usersafetyinformation` WHERE UserID=297  [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_template ] --START--
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_template ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_parse ] --START--
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run ParseTemplate Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_parse ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_filter ] --START--
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_filter ] --END-- [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_end ] --START--
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+[ 2017-02-24T23:02:28+08:00 ] /User_Index_aqxx.html | INFO: Tag[ view_end ] --END-- [ RunTime:0.000000s ]
